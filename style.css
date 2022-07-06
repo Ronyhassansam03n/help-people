@@ -3,5 +3,28 @@ body{
 }
 
 #h1-line {
-  padding-left: 75px;
+  padding-left: 130px;
+}
+h1{
+    font-size: 50px;
+    color: white;
+}
+
+p{
+    color: white;
+}
+
+.font-01{
+    padding-top: 120px;
+    padding-left: 250px;
+}
+.font-01{
+    background-image: url(images/donation13.jpg);
+    background-repeat: no-repeat;
+}
+.Paragph-01{
+    padding-left: 200px;
+}
+#P1-line{
+    padding-left: 110px;
 }

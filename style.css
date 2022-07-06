@@ -180,7 +180,7 @@ section .flex-02{
 button{
     color: rgb(248, 243, 243);
     font-size: 25px;
-    background-color: tomato;
+    background-color: rgba(255, 99, 71, 0.991);
     border-radius: 5px;
     border: none;
    text-decoration: none;
@@ -188,7 +188,7 @@ button{
 }
 section .sub-01{
     padding-left: 280px;
-    background-color: rgba(153, 205, 50, 0.514);
+    background-color: rgba(153, 205, 50, 0.286);
     margin-left: 220px;
     margin-right: 220px;
     padding-bottom: 80px;
@@ -201,14 +201,14 @@ input{
     border-radius: 5px;
     border: none;
     text-decoration: none;
-    background-color: darkgrey;
+    background-color: rgba(169, 169, 169, 0.914);
     
 }
 footer{
     text-align: center;
     background-color: black;
     padding: 20px 25px;
-    color:orangered ;
+    color:rgb(255, 68, 0) ;
     font-weight: 900;
     font-size: 20px;
 } 

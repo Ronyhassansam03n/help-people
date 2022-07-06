@@ -6,12 +6,12 @@ body{
 #h1-line {
   padding-left: 130px;
 }
-h1{
+.font-01 h1{
     font-size: 50px;
     color: rgb(255, 255, 255);
 }
 
-p{
+.font-01 p{
     color: white;
 }
 
@@ -42,10 +42,26 @@ p{
 
 }
 .a-text{
-    padding-left: 375px;
+    padding-left: 380px;
     padding-top: 20px;
 }
 .font-02{
     padding-bottom: 100px;
     
+}
+.part-02 h1{
+    font-size: 50px;
+    text-align: center;
+    padding-top: 40px;
+}
+.part-02 p{
+    text-align: center;
+}
+
+.donate-tk h1{
+  width: 60px;
+  border-radius: 5px;
+  padding: 20px;
+  margin: 10px;
+ background-color : rgba(128, 128, 128, 0.273);
 }

@@ -163,3 +163,56 @@ section .flex-02{
                 padding-left: 65px ;
                 padding-top: 20px;
             }
+        
+            .c-text{
+            padding-bottom: 100px;
+            }
+        
+.updates-01 h1{
+    font-size: 30px;
+    text-align: center;
+    padding-top: 40px;
+}
+
+.updates-01 p{
+    text-align: center;
+}
+button{
+    color: rgb(248, 243, 243);
+    font-size: 25px;
+    background-color: tomato;
+    border-radius: 5px;
+    border: none;
+   text-decoration: none;
+   padding: 4px;
+}
+section .sub-01{
+    padding-left: 280px;
+    background-color: rgba(153, 205, 50, 0.514);
+    margin-left: 220px;
+    margin-right: 220px;
+    padding-bottom: 80px;
+    padding-top: 80px;
+    border-radius: 10px;
+    margin-bottom: 100px;
+}
+input{ 
+    padding: 11px 80px;
+    border-radius: 5px;
+    border: none;
+    text-decoration: none;
+    background-color: darkgrey;
+    
+}
+footer{
+    text-align: center;
+    background-color: black;
+    padding: 20px 25px;
+    color:orangered ;
+    font-weight: 900;
+    font-size: 20px;
+} 
+.footer p{
+    color: azure;
+    font-weight: 800;
+}

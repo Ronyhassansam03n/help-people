@@ -59,9 +59,27 @@ body{
 }
 
 .donate-tk h1{
-  width: 60px;
-  border-radius: 5px;
-  padding: 20px;
+  width: 80px;
+  border-radius: 10px;
+  padding: 40px 30px;
   margin: 10px;
- background-color : rgba(128, 128, 128, 0.273);
+  background-color : rgba(128, 128, 128, 0.141);
+  text-align: center;
+  
 }
+
+section .donate-tk{
+    display: flex;
+}
+.donate-tk{
+    padding-left:21%;
+    padding-top: 2.5%;
+    
+}
+#donate-200tk{
+    color: rgb(250, 38, 1);
+    background-color: rgba(255, 99, 71, 0.184);
+   border: 2px solid rgb(243, 54, 21);
+
+}
+

@@ -17,7 +17,7 @@ body{
 
 .font-01{
     padding-top: 130px;
-    padding-left: 250px;
+    padding-left: 220px;
 }
 .font-01{
     background-image: url(images/donation13.jpg);
@@ -98,3 +98,45 @@ h2{
     padding-left: 600px;
     padding-top: 20px;
 }
+.our-plan #plan{
+    font-size: 50px;
+    color: rgb(0, 0, 0);
+    padding-top: 75px;
+    text-align: center;
+}
+.our-plan #plan-c{
+    text-align: center;
+}
+
+   
+
+
+section .flex-02{
+    display: flex;
+    width: 90%;
+}
+.flex-02 #food-01{
+    width: 90%;
+    border-radius: 5px;
+    padding: 40px 30px;
+    margin: 10px;
+    background-color : rgba(248, 13, 13, 0.171);
+     }
+     .flex-02 #shelter-01{
+        width: 90%;
+        border-radius: 5px;
+        padding: 40px 30px;
+        margin: 10px;
+        background-color : rgba(13, 248, 33, 0.208);
+         }
+         .flex-02 #edu-01{
+            width: 90%;
+            border-radius: 5px;
+            padding: 40px 30px;
+            margin: 10px;
+            background-color : rgba(232, 248, 13, 0.222);
+             }
+             .flex-02{
+                padding-left: 5%;
+                padding-top: 2.5%;
+             }
